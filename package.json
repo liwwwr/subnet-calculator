@@ -1,7 +1,7 @@
 {
-  "name": "sa",
-  "description": "SA",
-  "version": "0.0.0",
+  "name": "subnet-calc",
+  "description": "subnet calculator",
+  "version": "0.0.1",
   "type": "module",
   "private": false,
   "sideEffects": false,
